@@ -80,9 +80,9 @@ We tied!
 
 Play again (y/n)? n
 
-You won 1 times.
+You won 1 time.
 You lost 3 times.
-We tied 1 times.
+We tied 1 time.
 ```
 
 ### Implementation Guide
