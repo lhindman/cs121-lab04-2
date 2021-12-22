@@ -48,7 +48,7 @@ The program should randomly choose one of the three options (without revealing i
 #### Error Handling
 For this activity you may assume that the user can follow directions and will only enter appropriate values (1,2,3) or (y,n) as appropriate. Please focus your time on correct implementation of the game logic and lots of testing. :)
 
-#### Sample Output
+#### Expected Program Output (with sample user input)
 ```
 Enter your choice - 1 for Rock, 2 for Paper, and 3 for Scissors: 2
 Computer chooses Rock.
