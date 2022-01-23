@@ -1,4 +1,6 @@
 # Module 4 Lab Guide (part 2)
+## Getting Started
+[Lab Introduction](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f5119edd-cac4-4b02-9901-ae240170c28e). 
 
 ## Lab Activity 2 - VowelCounter
 ### Problem Description
