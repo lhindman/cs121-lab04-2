@@ -2,6 +2,8 @@
 # Module 4 Lab Guide (part 2)
 [Lab Introduction](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f5119edd-cac4-4b02-9901-ae240170c28e&start=0)  
 
+**NOTE: Please remember to [open the workspace](images/open-lab-workspace.png) before beginning on the lab activities** 
+
 ## Lab Activity 2 - VowelCounter
 ### Problem Description
 Design and implement an application that reads a string from the user and then determines and prints how many of each lowercase vowel (a,e,i,o, and u) appear in the entire string. Have a separate counter for each vowel. Also count and print the number of nonvowel characters. Your program should match the expected output below.
